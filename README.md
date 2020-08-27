@@ -29,6 +29,11 @@ git clone https://github.com/rohanvivek/country-capital-api.git
 python app.py
 ```
 3. Open ```http://localhost:5000/<country_capital>``` URL in browser and provide the capital name.
+
+## Additional Information
+
+There is a microservice endpoint for this API available at ```https://example.com/country-capital/<query-params>``` that can be used by any project in the organization to consume this API.
+
 ## Contributing
 Pull requests are welcome. For any bug report, please open an issue to discuss.
 
