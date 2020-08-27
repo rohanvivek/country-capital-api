@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 1. Clone the repository to your local system
 ```bash
-git clone www.example.com
+git clone https://github.com/rohanvivek/country-capital-api.git
 ```
 2. Run app using
 ```bash
